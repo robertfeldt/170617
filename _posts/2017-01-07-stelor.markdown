@@ -1,18 +1,8 @@
 ---
 layout: post
-title:  "Boende"
-date:   2017-01-06 18:31:13
+title:  "Hotel Stelor"
+date:   2017-01-07 18:31:13
 categories: boende
 tags: wedding
 ---
-Vi har bokat hela Hotel Stelor till familjen men det finns ett antal fina alternativ runt hörnet. Glöm inte att boka i god tid; Gotland är en populär ö. Här listar vi några alternativ:
-
-Bara 500 meter från Hotel Stelor finns [Ljungs Fem Rum](http://www.ljungsfemrum.se) som hyr ut studios/lägenheter. 
-
-På samma avstånd finns också [Kronholmens Gård](http://www.kronholmensgard.se) som hyr ut 5-bäddsrum. 
-
-Lite längre söderut, men fortfarande nästan på gångavstånd (1km) från Stelor, finns [Strandvägens Pensionat](http://www.strandvagenspensionat.se) som har stugor med 2 till 10 bäddar.
-
-Söderut från Västergarn finns också fina [Djupvik](http://www.djupvikhotel.com) med moderna bungalows med havsutsikt och pool. Med bil tar det ca 20 minuter från Djupvik till Hotel Stelor.
-
-I Visby finns förstås [många olika alternativ](http://www.destinationgotland.se/sv/boende) men då behöver man bil eller får ta taxi. Det tar ca 25 minuter med bil till Hotel Stelor. Gotlands officiella sida har också många alternativ för hur man kan bo.
+[Hotel Stelor](http://www.stelor.se) ligger i den lilla byn Västergarn intill Visby Golfklubb.
