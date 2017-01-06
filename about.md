@@ -1,17 +1,9 @@
 ---
 layout: page
-title: About
+title: Dags för bröllop
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Nu har vi varit ihop i mer än 5 år, förlovade i mer än 3 år och har fått en dotter tillsammans så vi tycker det är dags att slå till.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Den 17 Juni 2017 på Gotland är det dags och vi hoppas att ni nära och kära kan komma.
