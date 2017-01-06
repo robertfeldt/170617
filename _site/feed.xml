@@ -6,13 +6,13 @@
 </description>
     <link>http://robertfeldt.github.io/170617/</link>
     <atom:link href="http://robertfeldt.github.io/170617/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Jan 2017 22:00:49 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2017 22:00:49 +0100</lastBuildDate>
+    <pubDate>Fri, 06 Jan 2017 22:15:24 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Jan 2017 22:15:24 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Har du några frågor?</title>
-        <description>&lt;p&gt;Kontakta oss om du har andra frågor. Bara maila eller ring till oss!&lt;/p&gt;
+        <description>&lt;p&gt;Kontakta oss om du har andra frågor. Bara maila eller ring!&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Jan 2017 22:42:25 +0100</pubDate>
         <link>http://robertfeldt.github.io/170617/questions/2017/01/05/har-du-nagra-fragor.html</link>
@@ -22,61 +22,6 @@
         
         
         <category>questions</category>
-        
-      </item>
-    
-      <item>
-        <title>Mediator Features</title>
-        <description>&lt;h1 id=&quot;mediator-formats-and-css-features&quot;&gt;Mediator Formats and CSS features&lt;/h1&gt;
-
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
-
-&lt;h1 id=&quot;header-formats&quot;&gt;Header Formats&lt;/h1&gt;
-&lt;p&gt;#Header1
-##Header2&lt;/p&gt;
-
-&lt;h1 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;lists&quot;&gt;Lists&lt;/h1&gt;
-&lt;p&gt;##orderd lists
-1. one
-2. two
-3. three&lt;/p&gt;
-
-&lt;h2 id=&quot;unorderd-lists&quot;&gt;unorderd lists&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Apple&lt;/li&gt;
-  &lt;li&gt;Banana&lt;/li&gt;
-  &lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
-&lt;p&gt;This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;combinations&quot;&gt;Combinations&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Apple&lt;/li&gt;
-    &lt;li&gt;Banana&lt;/li&gt;
-    &lt;li&gt;Plum&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 30 Nov 2014 15:34:25 +0100</pubDate>
-        <link>http://robertfeldt.github.io/170617/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">http://robertfeldt.github.io/170617/mediator/feature/2014/11/30/mediator_features.html</guid>
-        
-        <category>featured</category>
-        
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
         
       </item>
     
