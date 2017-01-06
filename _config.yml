@@ -1,0 +1,61 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Annamaria och Robert"
+description: > # this means to ignore newlines until "email:"
+   Hotel Stelor, Västergarn, Gotland, 17 Juni 2017
+
+email: annamaria.sundbye@gmail.com
+#blog logo
+logo: "/assets/images/ar_logo2.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/hs.png"
+
+name: 'Annamaria och Robert'
+author: 'Annamaria och Robert'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://robertfeldt.github.io/mediator" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@drfeldt'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/drfeldt
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/annamaria.sundbye
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+#  - icon:	github
+#    url:	https://github.com/robertfeldt
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
