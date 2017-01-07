@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Annamaria och Robert"
+title: "Annamaria & Robert"
 description: > # this means to ignore newlines until "email:"
    Hotel Stelor, Västergarn, Gotland, 17 Juni 2017
 
@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/hs.png"
 
-name: 'Annamaria och Robert'
-author: 'Annamaria och Robert'
+name: 'Annamaria & Robert'
+author: 'Annamaria & Robert'
 author_image: "/assets/images/rf_and_am_at_sea.png"
 
 paginate:	5
