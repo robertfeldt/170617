@@ -7,6 +7,10 @@ tags: wedding
 ---
 Vill man undersöka Gotland före och/eller efter själva bröllopet finns det förstås många fina ställen. Här är några av våra tips:
 
-[Djupvik](http://www.djupvikhotel.com) är ett hotel men har också en bra restaurang en bit ovanför en fin, gammal fiskarby. Här kan man äta och dricka gott och ha en härlig utsikt både över byn och ut mot fågelöar utanför Gotland.
+[Djupvik](http://www.djupvikhotel.com) är ett hotel men har också en bra restaurang en bit ovanför en fin, gammal fiskarby. Här kan man äta och dricka gott och ha en härlig utsikt både över byn och ut mot [Lilla och Stora Karlsö](http://www.visitsweden.com/sweden/places/southern_sweden/stora_and_lilla_karlso).
 
-Från Djupvik kan man också köra söderut på en unik kustväg. Hela området är skyddat men man kan stanna och antingen ta ett dopp eller bara njuta av naturen och utsikten. Det finns också många får som strövar i området. 
+Från Djupvik kan man också köra söderut på en unik kustväg. Hela området är skyddat men man kan stanna och antingen ta ett dopp eller bara njuta av naturen och utsikten. Det finns också många får som strövar i området.
+
+Inne i Visby finns förstås en massa saker att göra och flera bra restauranger. Vi rekommenderar starkt [Surfers](http://www.surfersvisby.se) som har otroligt bra asiatisk mat. Bland de bättre vi ätit, faktiskt! Ofta fullbokat så ring innan eller bara droppa in och ta ett glas medans ni väntar på ert bord.
+
+Vill man besöka Fårö får man köra längst nordväst på Gotland. Här rekommenderar vi också ett besök på [Rute Stenungsbageri](http://rutestenugnsbageri.se). De har underbara mackor och fantastiska bullar och ett väldigt trevligt glashus där man kan sitta och fika. Är det kallt eller ruggigt tänder de en brasa. Är man här tidigt på morgonen kan man få se familjen Schulman som bor bara 100 meter bort på vägen.

@@ -20,7 +20,7 @@ name: 'Annamaria & Robert'
 author: 'Annamaria & Robert'
 author_image: "/assets/images/rf_and_am_at_sea.png"
 
-paginate:	5
+paginate:	10
 
 url: "http://robertfeldt.github.io/170617" # the base hostname & protocol for your site
 baseurl: ""
