@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hotel Stelor"
-date:   2017-01-07 18:31:13
+date:   2017-01-09 18:31:13
 categories: boende
 tags: wedding
 ---
