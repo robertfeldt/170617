@@ -2,7 +2,7 @@
 layout: page
 title: Dags för bröllop
 permalink: /about/
-image: /assets/article_images/am_rf_o_signe_gar_pa_arod_smaller.jpg
+image: /assets/article_images/am_rf_o_signe_pa_gotland_raukar.jpg
 ---
 
 Nu har vi varit ihop i mer än 5 år, förlovade i mer än 3 år och har fått en dotter tillsammans så vi tycker det är dags att slå till.
