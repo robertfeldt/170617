@@ -22,8 +22,8 @@ author_image: "/assets/images/rf_and_am_at_sea.png"
 
 paginate:	10
 
-url: "https://robertfeldt.github.io/170617" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://robertfeldt.github.io" # the base hostname & protocol for your site
+baseurl: "/170617"
 #used to display twitter cards
 twitter_handle: '@drfeldt'
 
