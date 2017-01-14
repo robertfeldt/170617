@@ -368,7 +368,7 @@ body {
   right: 0;
   bottom: 0;
   overflow: hidden; }
-@media(min-width: 100px) {
+@media(min-width: 700px) {
   .post .article-image .post-image-image {
     background-size: cover;
     position: absolute;
@@ -381,7 +381,7 @@ body {
     z-index: 1; }
   .post .article-image .post-image-image2 {
     display: none; } }
-@media(max-width: 100px) {
+@media(max-width: 700px) {
   .post .article-image .post-image-image {
     display: none; }
   .post .article-image .post-image-image2 {
