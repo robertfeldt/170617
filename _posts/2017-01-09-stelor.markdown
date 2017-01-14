@@ -5,5 +5,6 @@ date:   2017-01-09 18:31:13
 categories: boende
 tags: wedding
 image: /assets/article_images/stelor_room_num2.png
+image2: /assets/article_images/stelor_room_num2.png
 ---
 [Hotel Stelor](http://www.stelor.se) ligger [alldeles norr om](https://goo.gl/maps/kBJ2iUybynM2) den lilla byn Västergarn intill [Visby Golfklubb](http://www.visbygk.com). Vi har bott här flera gånger och alltid haft riktigt fina besök. På stranden en bit från hotellet förlovade vi oss 2013. Vi tycker det är lika bra att även gifta oss här. :)
