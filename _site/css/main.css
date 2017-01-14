@@ -381,7 +381,7 @@ body {
     z-index: 1; }
   .post .article-image .post-image-image2 {
     display: none; } }
-@media(max-width: 700px) {
+@media(max-width: 100px) {
   .post .article-image .post-image-image {
     display: none; }
   .post .article-image .post-image-image2 {
