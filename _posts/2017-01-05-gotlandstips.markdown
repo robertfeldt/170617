@@ -11,7 +11,7 @@ Vill man undersöka Gotland före och/eller efter själva bröllopet finns det f
 
 Från Djupvik kan man också köra söderut på en unik kustväg. Hela området är skyddat men man kan stanna och antingen ta ett dopp eller bara njuta av naturen och utsikten. Det finns också många får som strövar i området.
 
-Inne i Visby finns förstås en massa saker att göra och flera bra restauranger. Vi rekommenderar starkt [Surfers](http://www.surfersvisby.se) som har otroligt bra asiatisk mat. Bland de bättre vi ätit, faktiskt! Ofta fullbokat så ring innan eller bara droppa in och ta ett glas medans ni väntar på ert bord.
+Inne i Visby finns förstås en massa saker att göra och flera bra restauranger. Vi rekommenderar starkt [Surfers](http://www.surfersvisby.se) som har otroligt bra asiatisk mat. Bland den bättre vi ätit, faktiskt! Ofta fullbokat så ring innan eller bara droppa in och ta ett glas medans ni väntar på ert bord.
 
 Vill man besöka Fårö får man köra längst nordväst på Gotland. Här rekommenderar vi också ett besök på [Rute Stenungsbageri](http://rutestenugnsbageri.se). De har underbara mackor och fantastiska bullar och ett väldigt trevligt orangeri där man kan sitta och fika. Är det kallt eller ruggigt tänder de en brasa. Har man tur kan man få se familjen Schulman som bor bara 100 meter bort på vägen. :)
 
